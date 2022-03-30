@@ -23,6 +23,14 @@
       "price": "25.90",
       "available": false,
       "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+    },
+    {
+      "image": "https://th.bing.com/th/id/R.145e1edbadd53cd0ef073d793f64345f?rik=1%2b7skfMFK8iySQ&pid=ImgRaw&r=0&sres=1&sresct=1",
+      "name": "Pão com ovo",
+      "price": "2",
+      "description": "Pão com ovo de galinha",
+      "available": true,
+      "id": 4
     }
   ]
 }
